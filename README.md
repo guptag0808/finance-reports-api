@@ -57,7 +57,7 @@ The Personal Finance Management System is a backend application for managing per
 4. Set up the database:
 
     ```bash
-    npx prisma migrate dev --name init
+    npx prisma migrate dev --add age field init
     npx prisma generate
     ```
 
@@ -67,7 +67,7 @@ The Personal Finance Management System is a backend application for managing per
     npm start
     ```
 
-    The server should now be running on `http://localhost:3000`.
+    The server should now be running on `https://finance-reports-api.onrender.com`.
 
 ## API Endpoints
 
