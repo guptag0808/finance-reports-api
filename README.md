@@ -34,7 +34,7 @@ The Personal Finance Management System is a backend application for managing per
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/guptag0808/finance-reports-api.git
     cd personal-finance-management
     ```
 
